@@ -100,10 +100,8 @@ docker ps
 Poiché l'istanza non dispone di un dominio proprio, viene utilizzato un sottodominio gratuito duckdns puntato all'ip pubblico della macchina.
 
 Il dominio viene utilizzato da caddy per ottenere il certificato tls necessario alla connessione https.
-
-nel mio caso:
-
-notsoopenvpn.duckdns.org
+quindi
+miosottodominio.duckdns.org
 
 6 reverse proxy https
 
@@ -133,7 +131,7 @@ La gestione dei client avviene direttamente dalla web ui di wg easy.
 
 L'interfaccia è raggiungibile tramite:
 
-notsoopenvpn.duckdns.org
+miosottodominio.duckdns.org
 
 Da qui ci si può autenticare, creare nuovi client e generare le relative configurazioni.
 
