@@ -1,5 +1,7 @@
 # oracle-wireguard-docker
 
+Per sviluppare le mie competenze in ambito networking mi sono dedicato al creare un'infrastruttura VPN usando risorse cloud gratuite.
+
 FUNZIONI
 
 * privacy: l'infrastruttura è interamente gestita e controllata senza dipendere da intermediari commerciali.
